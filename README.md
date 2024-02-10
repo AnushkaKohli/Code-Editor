@@ -16,7 +16,10 @@
 
 ADD THE FOLLOWING LATER
 
-[] Make it collaborative
-[] Add more themes
-[] Add more languages
-[] Store the code in localStorage
+[ ] Make it collaborative
+
+[ ] Add more themes
+
+[ ] Add more languages
+
+[ ] Store the code in localStorage
