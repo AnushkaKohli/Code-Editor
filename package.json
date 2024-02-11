@@ -17,6 +17,7 @@
     "react-icons": "^5.0.1",
     "y-codemirror": "^3.0.1",
     "y-webrtc": "^10.3.0",
+    "y-websocket": "^1.5.3",
     "yjs": "^13.6.12"
   },
   "devDependencies": {

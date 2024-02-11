@@ -23,3 +23,5 @@ ADD THE FOLLOWING LATER
 [ ] Add more languages
 
 [ ] Store the code in localStorage
+
+[ ] Change view
