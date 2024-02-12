@@ -22,6 +22,6 @@ ADD THE FOLLOWING LATER
 
 [ ] Add more languages
 
-[ ] Store the code in localStorage
+[X] Store the code in localStorage
 
 [ ] Change view
