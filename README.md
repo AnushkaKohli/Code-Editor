@@ -1,5 +1,9 @@
 # Code Editor
 
+It's a simple code editor where you can edit you html, css and javascript files easily.
+
+[Demo App](https://caffeinecoder.netlify.app/)
+
 ## Steps for creating the project
 
 1. `npm create vite@latest .`
