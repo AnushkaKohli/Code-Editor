@@ -26,6 +26,8 @@ ADD THE FOLLOWING LATER
 
 [ ] Add more languages
 
+[X] Add font size
+
 [X] Store the code in localStorage
 
 [ ] Change view
