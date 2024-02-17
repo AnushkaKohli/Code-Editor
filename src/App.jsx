@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Editor from './components/Editor';
 import './App.css'
 import useLocalStorage from './hooks/useLocalStorage';
+import Navbar from './components/Navbar';
 
 function App() {
   const [html, setHtml] = useLocalStorage('html','');
@@ -26,6 +27,9 @@ function App() {
 
   return (
     <div>  
+      <div className='navbar'>
+        <Navbar />
+      </div>
       <div className='pane top-pane bg-black'>
         <Editor 
           language="xml" 
