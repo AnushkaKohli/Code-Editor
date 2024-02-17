@@ -18,7 +18,14 @@ It's a simple code editor where you can edit you html, css and javascript files 
 
 4. Add tailwind for styling
 
-ADD THE FOLLOWING LATER
+## Steps to deploy on netlify:-
+
+1. Run `npm run build`
+2. Upload the dist folder on netlify
+3. To update the website, again run `npm run build`
+4. Go to your projects -> deploys and then upload the new dist folder
+
+## ADD THE FOLLOWING LATER
 
 [ ] Make it collaborative
 
@@ -26,7 +33,7 @@ ADD THE FOLLOWING LATER
 
 [ ] Add more languages
 
-[X] Add font size
+[X] Add font size - 2xl not working
 
 [X] Store the code in localStorage
 
